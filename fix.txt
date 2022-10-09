@@ -1,0 +1,2 @@
+pip3 uninstall opencv-python
+pip3 install -U opencv-contrib-python==3.4.2.16
